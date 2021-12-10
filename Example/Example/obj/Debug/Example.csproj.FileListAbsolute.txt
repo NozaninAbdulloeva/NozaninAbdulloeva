@@ -1,0 +1,6 @@
+D:\SHef_1999\ProjectC#\Example\Example\bin\Debug\Example.exe.config
+D:\SHef_1999\ProjectC#\Example\Example\bin\Debug\Example.exe
+D:\SHef_1999\ProjectC#\Example\Example\bin\Debug\Example.pdb
+D:\SHef_1999\ProjectC#\Example\Example\obj\Debug\Example.exe
+D:\SHef_1999\ProjectC#\Example\Example\obj\Debug\Example.pdb
+D:\SHef_1999\ProjectC#\Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
